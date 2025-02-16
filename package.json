@@ -1,0 +1,15 @@
+{
+  "name": "test-ksfw",
+  "version": "1.0.0",
+  "description": "Telegram bot that provides SFW content",
+  "author": "rapasa",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0",
+    "pm2": "^5.4.3",
+    "telegram-bot-api": "^2.0.1",
+    "uuid": "^11.0.5"
+  }
+}
