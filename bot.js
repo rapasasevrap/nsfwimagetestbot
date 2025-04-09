@@ -2,7 +2,7 @@ const cfg = require("./cfg.json");
 const tg = require("telegram-bot-api");
 const fetch = require("node-fetch");
 
-const token = "7906680700:AAH0zrhqglzrBOcI1uAs1XNsdmC0bgHd5Vo";
+const token = "your api token";
 const source = cfg.source;
 const valid = cfg.valid;
 
